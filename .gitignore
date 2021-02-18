@@ -130,3 +130,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+archive/data/olist_customers_dataset.csv
+archive/data/olist_geolocation_dataset.csv
+archive/data/olist_order_items_dataset.csv
+archive/data/olist_order_payments_dataset.csv
+archive/data/olist_order_reviews_dataset.csv
+archive/data/olist_orders_dataset.csv
+archive/data/olist_products_dataset.csv
+archive/data/olist_sellers_dataset.csv
+archive/data/product_category_name_translation.csv
+EDA_consumtion trend of government subsidies/data/KRI-DAC_Jeju_data5.txt
+EDA_consumtion trend of government subsidies/data/KRI-DAC_Jeju_data6.txt
+EDA_consumtion trend of government subsidies/data/KRI-DAC_Jeju_data7.txt
+EDA_consumtion trend of government subsidies/data/KRI-DAC_Jeju_data8.txt
